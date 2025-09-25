@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h3 align="center">🏅 Stack</h3>
 <div align="center">
@@ -46,3 +46,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Velog-1EBC8F.svg?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
   </a>
 </div>
+-->
