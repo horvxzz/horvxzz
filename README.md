@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact</h3>
 <div align="center">
-Email: s25068@gsm.hs.kr<br>
 
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;
